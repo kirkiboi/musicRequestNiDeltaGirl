@@ -147,7 +147,13 @@ body{
     display: block;
 }
 .sza-songs,
-.beatles-songs{
+.beatles-songs,
+.adele-songs,
+.taylor-songs,
+.the1975-songs,
+.frank-songs,
+.munimuni-songs,
+.daniel-songs{
     border-radius: 6px;
     margin-bottom: 24px;
     background-color: wheat;
